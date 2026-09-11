@@ -1,50 +1,91 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👋 Hi, I'm Harsh
 
-###
+### Full-Stack Developer | GenAI Enthusiast | Problem Solver
 
-<p align="left">My name is HARSH RAJ and I'm a Frontend Developer</p>
+I'm a developer interested in building **full-stack applications, AI-powered products, and interactive learning experiences**.
 
-###
+I enjoy turning ideas into useful products and continuously learning new technologies.
 
-<h2 align="left">About me</h2>
+---
 
-###
+## 🚀 About Me
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Full Stack Development<br>🎯 Pursuing Btech in Computer Science Engineering 28'<br>🎲 Fun fact: ...</p>
+* 💻 Full-Stack Developer with a focus on modern web technologies
+* 🤖 Interested in **Generative AI & AI-powered applications**
+* 🌱 Currently improving my **Next.js, AI, and software development skills**
+* 🧠 Interested in building products that combine **technology + education**
+* 🇯🇵  Currently learning **Japanese**
+* ⚡ Always learning, building, and experimenting
 
-###
+---
 
-<h2 align="left">Languages and Tools:</h2>
+## 🛠️ Tech Stack
 
-###
+### Languages
 
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>vv
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-###
+### Frontend
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=HarshRaj3050&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshRaj3050&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
-###
+### Backend & Database
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/harshraj3050/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+### AI & Tools
+
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge\&logo=google\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+* Next.js
+* Generative AI
+* AI Agents
+* System Design
+* Japanese 🇯🇵
+* Building scalable full-stack applications
+
+---
+
+## 🤝 Let's Connect
+
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/HarshRaj3050/count.svg?"  />
-</div>
+### 💭 My Philosophy
 
-###
+> **Build. Learn. Experiment. Repeat.**
+
+I'm always open to learning, collaborating, and building something meaningful with technology.
+
+⭐ **Feel free to explore my repositories!**
