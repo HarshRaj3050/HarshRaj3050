@@ -1,10 +1,6 @@
-# 👋 Hi, I'm Harsh Raj
-
-### Full-Stack Developer | GenAI Enthusiast | Problem Solver
-
-I'm a developer interested in building **full-stack applications, AI-powered products, and interactive learning experiences**.
-
-I enjoy turning ideas into useful products and continuously learning new technologies.
+<p align="center">
+  <img src="./profile-hero.svg" alt="Harsh Raj — GenAI Enthusiast and Full-Stack Developer" width="100%" />
+</p>
 
 ---
 
